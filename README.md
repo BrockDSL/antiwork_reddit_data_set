@@ -12,6 +12,8 @@ parameters:
 
 [Example PRAW item fetched](https://gist.github.com/elibtronic/030706222ce9240c3bc5bd959f5af64f)
 
+[Sample of 1000 records as CSV](https://github.com/BrockDSL/antiwork_reddit_data_set/blob/main/antiwork_sample.csv?raw=true)
+
 ## Prep Steps
 
 - Install [https://github.com/Jabb0/SubredditDownloader](https://github.com/Jabb0/SubredditDownloader)
