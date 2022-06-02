@@ -54,3 +54,10 @@ Work done in `Master_Builder.ipynb`.
 [Example PRAW item fetched](https://gist.github.com/elibtronic/030706222ce9240c3bc5bd959f5af64f)
 
 [Sample of 1000 records as CSV](https://github.com/BrockDSL/antiwork_reddit_data_set/blob/main/antiwork_sample.csv?raw=true) 
+
+## Analysis Notebooks
+
+Data is built locally. Once that is done analysis it completed in Google Colab according to the following Notebooks:
+
+- [Corpus Prep](https://colab.research.google.com/drive/15zw2xN9G7YAdI6nwyu1X151nS6cLDE2t#scrollTo=8jILi2O_moLE)
+- [Model Build](https://colab.research.google.com/drive/11cQi0gfc9D4R35dEyLSwzNg8uMppkH5k#scrollTo=wZxTcIV8i2iF)
